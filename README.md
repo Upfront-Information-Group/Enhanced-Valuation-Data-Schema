@@ -7,7 +7,8 @@ The Enhanced Valuation Data Schema would include standardised data (based on the
 --Wall construction
 --Roof construction
 - Room numbers (broken down by type)
-- Total square footage
+- Size Total Internal Sq Ft
 - Square footage by room 
 - Garden(s) and outdoor spaces
 - Outbuildings
+- Parking
